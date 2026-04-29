@@ -1,0 +1,24 @@
+.grid-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  list-style-type: none;
+}
+
+.seat {
+  margin: 1px;
+  padding: 1px;
+}
+
+input[type='checkbox'] {
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+
+label {
+  font-size: 10px;
+}
