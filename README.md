@@ -110,14 +110,14 @@ FilmZone/
 - Review management
 - Contact support module
 
-#⚙️ Installation & Setup Guide
+# ⚙️ Installation & Setup Guide
 
-##1️⃣ Clone Repository
+## 1️⃣ Clone Repository
 ```
 git clone https://github.com/yourusername/FilmZone.git
 cd FilmZone
 ```
-##2️⃣ Frontend Setup
+## 2️⃣ Frontend Setup
 ```
 cd movie
 npm install
@@ -125,7 +125,7 @@ npm start
 ```
 - Frontend runs on: http://localhost:3000
 
-##3️⃣ Backend Setup
+## 3️⃣ Backend Setup
 ```
 cd movieApi
 npm install
@@ -133,7 +133,7 @@ npm start
 ```
 - Backend runs on: http://localhost:5000
 
-##4️⃣ Environment Variables
+## 4️⃣ Environment Variables
 
 Create a .env file inside movieApi/:
 ```
