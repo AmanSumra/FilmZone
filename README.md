@@ -90,13 +90,13 @@ FilmZone/
 
 ---
 
-#🔐 Security Features
--Password hashing with bcrypt
--JWT token authentication
--Protected routes
--Secure payment integration
--Environment variable configuration
--File upload validation
+# 🔐 Security Features
+- Password hashing with bcrypt
+- JWT token authentication
+- Protected routes
+- Secure payment integration
+- Environment variable configuration
+- File upload validation
 
 ---
 
