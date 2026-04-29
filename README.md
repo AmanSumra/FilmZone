@@ -88,6 +88,8 @@ FilmZone/
 └── README.md
 ```
 
+---
+
 #🔐 Security Features
 -Password hashing with bcrypt
 -JWT token authentication
@@ -95,6 +97,8 @@ FilmZone/
 -Secure payment integration
 -Environment variable configuration
 -File upload validation
+
+---
 
 # 💳 Payment Integration
 
@@ -109,6 +113,8 @@ FilmZone/
 - Email notifications using Nodemailer
 - Review management
 - Contact support module
+
+---
 
 # ⚙️ Installation & Setup Guide
 
@@ -145,6 +151,9 @@ RAZORPAY_SECRET=your_secret
 EMAIL_USER=your_email
 EMAIL_PASS=your_password
 ```
+
+---
+
 # 📸 Major Pages
 
 - Home Page
